@@ -1,5 +1,6 @@
 # docker_poetry
 Docker と poetry で Python 開発環境を管理する
+まだ作成途中です、これから docker build と poetry での環境構築と動作確認などしていきます。
 
 # 環境
 | | バージョン |
